@@ -1,8 +1,11 @@
 {
-  "Name": "real-time brain state depedent TMS dataset",
-  "BIDSVersion": "1.2",
-  "Authors": ["Uttara Khatri", "Sara Hussain"],
-  "Acknowledgements": "We thank all participants for their time.",
-  "DatasetType": "raw"
-
+    "Name": "Real-time personalized brain state-dependent TMS in healthy adults ",
+    "BIDSVersion": "1.2",
+    "Authors": [
+        "Uttara Khatri",
+        "Sara Hussain"
+    ],
+    "Acknowledgements": "We thank all participants for their time.",
+    "DatasetType": "raw",
+    "License": "CC0"
 }
