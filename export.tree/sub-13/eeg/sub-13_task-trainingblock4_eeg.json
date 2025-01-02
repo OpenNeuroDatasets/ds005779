@@ -1,0 +1,23 @@
+{
+	"ECGChannelCount": 0,
+	"EEGChannelCount": 67,
+	"EEGChannels": {
+		"type": "EEG"
+	},
+	"EEGReference": "FCz",
+	"EMGChannelCount": 0,
+	"EOGChannelCount": 0,
+	"InstitutionAddress": "Bellmont Hall, Austin",
+	"InstitutionName": "University of Texas at Austin",
+	"InstitutionalDepartmentName": "Department of Kinesiology and Health Education",
+	"Manufacturer": "Bittium Biosignals",
+	"MiscChannelCount": 0,
+	"PowerLineFrequency": 60,
+	"RecordingDuration": 385.2288,
+	"SamplingFrequency": 5000,
+	"SoftwareFilters": "n/a",
+	"SoftwareVersions": "NuerOne",
+	"TaskDescription": "Subjects were seated and resting with their eyes open and their hands and arms relaxed on the chair, while receiving single pulse TMS",
+	"TaskName": "trainingblock4",
+	"TriggerChannelCount": 0
+}
