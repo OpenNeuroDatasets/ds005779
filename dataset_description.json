@@ -7,5 +7,6 @@
     ],
     "Acknowledgements": "We thank all participants for their time.",
     "DatasetType": "raw",
-    "License": "CC0"
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005779.v1.0.0"
 }
