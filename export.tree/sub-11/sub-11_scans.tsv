@@ -1,0 +1,14 @@
+filename	acq_time
+eeg/sub-11_task-trainingblock1_eeg.vhdr	n/a
+eeg/sub-11_task-trainingblock2_eeg.vhdr	n/a
+eeg/sub-11_task-trainingblock3_eeg.vhdr	n/a
+eeg/sub-11_task-trainingblock4_eeg.vhdr	n/a
+eeg/sub-11_task-trainingblock5_eeg.vhdr	n/a
+eeg/sub-11_task-trainingblock6_eeg.vhdr	n/a
+eeg/sub-11_task-testinghigh120RMT_eeg.vhdr	n/a
+eeg/sub-11_task-testinghigh110RMT_eeg.vhdr	n/a
+eeg/sub-11_task-testinglow120RMT_eeg.vhdr	n/a
+eeg/sub-11_task-testinglow110RMT_eeg.vhdr	n/a
+eeg/sub-11_task-testingrandom120RMT_eeg.vhdr	n/a
+eeg/sub-11_task-testingrandom110RMT_eeg.vhdr	n/a
+eeg/sub-11_task-resting_eeg.vhdr	n/a
